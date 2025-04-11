@@ -2,12 +2,19 @@
 
 **`Desenvolvedor FullStack`**
 
-Prazer, me chamo Henrique Gaiardoni, tenho 18 anos e moro em São Bernardo do Campo. Concluí o ensino médio no Colégio Arbos e atualmente estou cursando o 3º semestre de Ciência da Computação no Centro Universitário FEI. Desde pequeno sempre tive muito contato com a tecnologia, e sempre gostei bastante de programar.
+Prazer, me chamo Henrique Gaiardoni, tenho 18 anos e moro em São Bernardo do Campo. Concluí o ensino médio no Colégio Arbos e atualmente estou cursando o 3º semestre de Ciência da Computação no Centro Universitário FEI. Desde pequeno sempre tive muito contato com a tecnologia, e sempre gostei bastante de programar.https://github.com/henriquegsantanna?tab=repositories
 
 <p align="left">
     <a href="https://github.com/henriquegsantanna?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
+            alt="Repositórios" 
+            title="Total de repositórios" 
+            src="https://custom-icon-badges.demolab.com/github/stars/henriquegsantanna?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/henriquegsantanna?tab=repositories&sort=stargazers">
+        <img 
+            alt="Estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/henriquegsantanna?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
@@ -15,7 +22,7 @@ Prazer, me chamo Henrique Gaiardoni, tenho 18 anos e moro em São Bernardo do Ca
     <a href="https://github.com/henriquegsantanna?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
+            title="Seguidores no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/henriquegsantanna?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -63,7 +70,7 @@ Prazer, me chamo Henrique Gaiardoni, tenho 18 anos e moro em São Bernardo do Ca
     title="MongoDB" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg](https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb.png)" 
+    src="[[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg](https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb.png)](https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb.png)" 
 />
 <img 
     align="left" 
@@ -87,12 +94,10 @@ Prazer, me chamo Henrique Gaiardoni, tenho 18 anos e moro em São Bernardo do Ca
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=henriquegsantanna&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegsantanna&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
