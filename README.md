@@ -34,7 +34,7 @@ Prazer, me chamo Henrique Gaiardoni, tenho 18 anos e moro em São Bernardo do Ca
 
 <div>
     <a href="mailto:henriquegsantanna@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="www.linkedin.com/in/henrique-gaiardoni-140b18314" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/henrique-gaiardoni-140b18314" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <br/>
