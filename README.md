@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Prazer, me chamo Henrique Gaiardoni, tenho 18 anos e moro em São Bernardo do Campo. Concluí o ensino médio no Colégio Arbos e atualmente estou cursando o 3º semestre de Ciência da Computação no Centro Universitário FEI. Desde pequeno sempre tive muito contato com a tecnologia, e sempre gostei bastante de programar.
+Prazer, me chamo Henrique Gaiardoni, tenho 19 anos e moro em São Bernardo do Campo. Concluí o ensino médio no Colégio Arbos e atualmente estou cursando o 4º semestre de Ciência da Computação no Centro Universitário FEI. Desde pequeno sempre tive muito contato com a tecnologia, e sempre gostei bastante de programar.
 
 ---
 
