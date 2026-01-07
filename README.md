@@ -1,38 +1,23 @@
-# 👨🏻‍💻 Henrique Gaiardoni
+# Olá! 👋
 
-**`Desenvolvedor FullStack`**
+Me chamo **Henrique Gaiardoni**, sou estudante de **Ciência da Computação** no Centro Universitário FEI, atualmente no **5º semestre**.
 
-Prazer, me chamo Henrique Gaiardoni, tenho 19 anos e moro em São Bernardo do Campo. Concluí o ensino médio no Colégio Arbos e atualmente estou cursando o 4º semestre de Ciência da Computação no Centro Universitário FEI. Desde pequeno sempre tive muito contato com a tecnologia, e sempre gostei bastante de programar.
+Atuo profissionalmente em um **consultório odontológico**, sendo responsável pela organização, validação e atualização de dados, controle de cadastros e apoio na melhoria de processos internos.
 
----
+Tenho experiência no desenvolvimento de **aplicações web**, com foco na criação de aplicações funcionais, organizadas e bem estruturadas.
 
-### 📚 Estatísticas
+## Tecnologias e Ferramentas
 
-<div>
-    <a href="https://github.com/henriquegsantanna">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=henriquegsantanna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegsantanna&layout=compact&langs_count=16&theme=dark"/>
-</div>
+- **Linguagens:** Java, Python, JavaScript, C, PHP  
+- **Front-end:** HTML, CSS, JavaScript  
+- **Banco de Dados:** MySQL, PostgreSQL  
+- **Análise de Dados:** Excel, Power BI
 
----
+## Projetos
 
-### 🤖 Linguagens e Tecnologias
-
-<div style="display: inline_block">
-<img align="center" alt="HTML" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
-<img align="center" alt="CSS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
-<img align="center" alt="JS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="JAVA" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img align="center" alt="PYTHON" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-<img align="center" alt="C" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-<img align="center" alt="MONGODB" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
-<img align="center" alt="GIT" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-
----
-
-### 📱 Contato
-
-<div>
-    <a href="mailto:henriquegsantanna@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/henrique-gaiardoni-140b18314" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+Neste GitHub você encontrará projetos acadêmicos e pessoais voltados para:
+- Desenvolvimento de aplicações web
+- Back-end e integração com bancos de dados relacionais
+- Implementação de operações CRUD
+- Automação e lógica de programação
+- Programação orientada a objetos
